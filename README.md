@@ -5,3 +5,8 @@ This repository contains all of the notes taken by [Stephanie](https://github.co
 ### Table of Contents
 * [Week 1](/Users/stephanierowe/focal/week_1)
   * [Day 1](/Users/stephanierowe/focal/week_1/day_1)
+  ```javascript
+  function whatToDoForLunch(hungry,availableTime) {
+    console.log("hungry is", hungry);
+    console.log("availableTime is",availableTime);
+  }
